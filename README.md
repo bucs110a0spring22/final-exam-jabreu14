@@ -12,16 +12,20 @@ Please make sure you have completed the soot survey at:
     [soot.binghamton.edu](https://soot.binghamton.edu)
 
 Please list the urls for the APIs you used:
+http://dog-api.kinduff.com/api/facts
+https://random.dog/woof.json
+https://cat-fact.herokuapp.com/facts
+https://uselessfacts.jsph.pl/random.json?language=en
+https://api.themotivate365.com/stoic-quote
+https://api.kanye.rest/
 
-Summary of Program:
+Summary of Program: My program essentially asks the user if they want a random fact about a certain topic. If the user rejects the program by typing 'no', then the program will ask the user if they want a different random fact/quote. If the user keeps rejecting the program by typing 'no' the program will get 'irritated' and end.
 
-Most Challenging topic in the course:
+Most Challenging topic in the course: Requests/APIs
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
-
+None
 ## REFERENCES:
- < List any outside resources used >
-
+None
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+None
